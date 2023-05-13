@@ -1,1 +1,1 @@
-# mlcc_pytorch
+# Machine Learning Crash Course
